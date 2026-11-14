@@ -1,0 +1,7 @@
+source_id,title,type,identifier,doi,url,status,notes
+psi-25,Burning and Suppression of Solids - II (BASS-II),dataset,PSI-25,10.60555/4qc4-de67,https://psi.nasa.gov/physci/repo/data/investigations/PSI-25,verified (metadata file and file list inspected),Zip filename says PSI-101; metadata study ID is PSI-25
+ntrs-20160000593,Combustion of Solids in Microgravity: Results from the BASS-II Experiment,presentation,20160000593,,https://ntrs.nasa.gov/citations/20160000593,verified,
+ntrs-20150019858,Results from On-Board CSA-CP and CDM Sensor Readings during BASS-II,conference paper,20150019858,,https://ntrs.nasa.gov/citations/20150019858,verified,ICES-2015-196
+ntrs-20210011385,Burning and Suppression of Solids-II (BASS-II) Summary Report,report,20210011385,,https://ntrs.nasa.gov/citations/20210011385,verified,Same report as the PDF in data/raw/documents
+ntrs-20180005168,Saffire: A Novel Approach to Study of Spacecraft Fire Safety,presentation,20180005168,,https://ntrs.nasa.gov/api/citations/20180005168/downloads/20180005168.pdf,verified (search result only; PDF not yet downloaded),
+psi-98,SAFFIRE-I (PSI),dataset,PSI-98,,https://psi.nasa.gov/physci/repo/data/investigations/PSI-98,unverified (page not yet inspected),File list still to be checked
