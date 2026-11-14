@@ -1,0 +1,8 @@
+path,size_kb,sha256_prefix,contents
+bass-ii\BASS-II Test Matrix by PI Final.xlsx,28.3,1a3b283dd0adec86,"Bhattacharjee: 22 rows x 16 cols; Ferkul: 4 rows x 16 cols; Miller: 20 rows x 16 cols; Olson: 27 rows x 16 cols; Fernandez-Pello: 27 rows x 16 cols; T'ien: 29 rows x 16 cols || columns of 'Bhattacharjee': ['Actual Date  (for Video Display Date, add 1 for Leap Year)', 'GMT 2014-', 'Test no.', 'Sample no.', 'Material', 'Flow restrictor', 'Fan display', 'Air display', 'Radiometer gain   (1000, 250, 50, 10)', 'total frames shot', 'calibrated  initial O2 % by vol ', 'calibrated final O2 % by vol', 'Initial CO2 % by vol', 'Final CO2 % by vol', 'Initial CO (ppm)', 'Final CO (ppm)']"
+bass-ii\PSI-25_Experimental table_BASS-II.csv,16.2,71e792bf6b5fb5ea,"129 rows, 17 cols: ['PI', 'Test #', 'Date', 'GMT', 'Sample #', 'Fuel Sample Material', 'Flow restrictor', 'Fan display', 'Air display', 'Radiometer gain   (1000   250   50   10)', 'Total Frames Shot', 'Calibrated  initial O2 % by vol ', 'Calibrated final O2 % by vol', 'Initial CO2 % by vol', 'Final CO2 % by vol', 'Initial CO (ppm)', 'Final CO (ppm)']"
+bass-ii\PSI-25_metadata_PSI_metadata_PSI-101_BASS-II.zip,13.1,629faf104a8ff0e8,"contains: i_Investigation.txt, s_PSI-25.txt"
+documents\BASS-II data FAQ.docx,21.0,69f32647792f54ab,17099 text chars (saved to data\processed\docx_text\BASS-II data FAQ.txt)
+documents\BASS-II Procedure.docx,1085.8,76fb21a7c94b6f64,21420 text chars (saved to data\processed\docx_text\BASS-II Procedure.txt)
+documents\BASS-II Summary Report.pdf,47824.6,5ffa911fd9b6356f,"144 pages, 343563 text chars"
+documents\SRD_BASS-II.pdf,1082.4,d00a763d60719bc1,"16 pages, 11274 text chars"
