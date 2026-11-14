@@ -185,8 +185,8 @@ Files uploaded in Data Management are not stored permanently on a hosted app. Th
 
 | Member | Responsibilities |
 |---|---|
-| **Hamna Munir** | NASA research and dataset inspection, preprocessing, scientific analysis, AI research assistant, findings and ranking, source validation |
-| **Mirza Yasir Abdullah Baig** | Streamlit application, dashboard pages, visualisations, data management interface, GitHub, deployment |
+| **Mirza Yasir Abdullah Baig** | NASA research and dataset inspection, preprocessing, scientific analysis, AI research assistant, findings and ranking, source validation |
+| **Hamna Munir** | Streamlit application, dashboard pages, visualisations, data management interface, GitHub, deployment |
 | **Both** | Testing, scientific validation, documentation, final presentation |
 
 <!-- The table shows the planned division of work. Edit it to match what each member actually did. -->
